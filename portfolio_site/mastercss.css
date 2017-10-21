@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+  color: #333333;
+  font-family: 'Amatic SC', cursive;
+}
+
+a {
+  color: inherit;
+  font-size: 1.5em;
+}
+
+h1 {
+  font-size: 8em;
+}
+
+h2 {
+  font-size: 6em;
+}
+
+h3 {
+  font-size: 4em;
+}
+
+h4 {
+  font-size: 4em;
+}
+
+p {
+  font-size: 1.8em;
+}
+
+.logo {
+  padding-top: 1em;
+}
+
+.thumb {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.details {
+  padding-bottom: 5em;
+}
